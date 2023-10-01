@@ -4,4 +4,5 @@ void main(){
     double a=10, b=3, c;
     c = pow(a,b);
     printf("%lf",c);
+    printf("%lf", a);
 }
